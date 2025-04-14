@@ -33,9 +33,13 @@ Outputs:
 /analytics
 ![image](https://github.com/user-attachments/assets/b6c5e43e-a540-4921-9743-0aca8a528d1e)
 ![image](https://github.com/user-attachments/assets/8c95bfd0-ae63-45d7-8b7f-8b6d79dc1338)
+![image](https://github.com/user-attachments/assets/e3034018-f074-49b2-9246-3b8a729101a5)
+
 
 /ask
 ![image](https://github.com/user-attachments/assets/125987a7-83af-4c89-809e-c8d7d523a52c)
+![image](https://github.com/user-attachments/assets/1870b0eb-814a-47e7-9626-5e3a272184d1)
+
 
 ⚠️ Challenges Faced
 1. Routing Issues
