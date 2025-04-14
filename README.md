@@ -1,4 +1,4 @@
-📝 Short Report – Unified Hotel Booking Insights & QA App
+## 📝 Short Report – Unified Hotel Booking Insights & QA App
 🛠️ Project Overview
 This project presents a unified web application that offers:
 
